@@ -1,5 +1,7 @@
  I am Just applying what i learn in the field of machine Learning
+ 
 Road Map for machine Learning:
+
 Suprevised  (Regression,Classification)
 
 week 1 : Introduction to Machine Learning
